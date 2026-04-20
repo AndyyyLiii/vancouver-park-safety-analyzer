@@ -1,0 +1,23 @@
+# Large data files (users download these themselves per README)
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Optional: test scripts from development
+test_charts.py
+test_map.py
