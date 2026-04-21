@@ -4,8 +4,10 @@ A Python application that combines City of Vancouver park data with Vancouver Po
 
 ## Live Links
 
-- **GitHub repository:** TODO — paste your public repo URL here
-- **Live interactive map (GitHub Pages):** TODO — paste your Pages URL here
+## Live Links
+
+- **GitHub repository:** https://github.com/AndyyyLiii/vancouver-park-safety-analyzer
+- **Live interactive map (GitHub Pages):** https://andyyyliii.github.io/vancouver-park-safety-analyzer/
 
 ## What This Project Does
 
